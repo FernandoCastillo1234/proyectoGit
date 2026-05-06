@@ -1,1 +1,1 @@
-echo "Primera línea" > uno.txt
+Primera línea
